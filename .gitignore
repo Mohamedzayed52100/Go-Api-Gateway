@@ -1,0 +1,23 @@
+# IDEs
+/.vscode
+/.idea
+
+# Go
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.pb.go
+*.mock.go
+**/bin
+**/openapi/go
+
+/main
+
+# Secret management
+.env
+
+# tmp
+/tmp
